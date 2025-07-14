@@ -1,7 +1,7 @@
 <!-- profile README – shown on https://github.com/<username> -->
 
 <h1 align="center">
-  👋 Hi, I’m <Jesse Jr Lim>  
+  👋 Hi, I’m Jesse Jr Lim
   <br/>
   <sub>Building <b>Decentre Studio</b> – an offline, private AI-creation suite</sub>
 </h1>
