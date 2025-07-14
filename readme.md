@@ -8,7 +8,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-alpha-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/last-commit/<username>/decentre3?style=for-the-badge"/>
 </p>
 
 ### 🚀 What is Decentre Studio?
