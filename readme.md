@@ -6,6 +6,10 @@
   <sub>Building <b>Decentre Studio</b> – an offline, private AI-creation suite</sub>
 </h1>
 
+<img src="https://github-readme-stats.vercel.app/api?username=JesseJrLim&show_icons=true&theme=default&hide_title=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesseJrLim&layout=compact" />
+<img src="https://streak-stats.demolab.com/?user=JesseJrLim" />
+
 <p align="center">
   <img src="https://img.shields.io/badge/status-alpha-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/github/last-commit/<username>/decentre3?style=for-the-badge"/>
