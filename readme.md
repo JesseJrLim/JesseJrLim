@@ -48,5 +48,5 @@ Full roadmap → **[Project site](https://<username>.github.io)**
 ---
 
 <p align="center">
-  <em>“Local-first AI for creators – stay creative, stay private.”</em>
+  <em>“Local-first Create Images, Datasets and models you can use ifinitely.”</em>
 </p>
