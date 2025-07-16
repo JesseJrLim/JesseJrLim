@@ -48,5 +48,6 @@ Full roadmap → **[Project site](https://<username>.github.io)**
 ---
 
 <p align="center">
+  <img src="[https://github.com/JesseJrLim/JesseJrLim/blob/main/card_image.png]"/>
   <em>“Local-first Create Images, Datasets and models you can use ifinitely.”</em>
 </p>
