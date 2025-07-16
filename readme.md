@@ -1,19 +1,13 @@
 <!-- profile README – shown on https://github.com/<username> -->
 
 <h1 align="center">
-  👋 Hi, I’m <Jesse Jr Lim>  
+  👋 Hi, I’m Jesse Jr Lim
   <br/>
   <sub>Building <b>Decentre Studio</b> – an offline, private AI-creation suite</sub>
 </h1>
 
-<img src="https://github-readme-stats.vercel.app/api?username=JesseJrLim&show_icons=true&theme=default&hide_title=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesseJrLim&layout=compact" />
-<img src="https://streak-stats.demolab.com/?user=JesseJrLim" />
-
 <p align="center">
   <img src="https://img.shields.io/badge/status-alpha-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/last-commit/<username>/decentre3?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge"/>
 </p>
 
 ### 🚀 What is Decentre Studio?
@@ -48,9 +42,11 @@ Full roadmap → **[Project site](https://<username>.github.io)**
 - Twitter / X: **@chairmanmao74**
 - Email: **jessejrlim at gmail dot com**
 - Discussions: **[GitHub Discussions ↗](https://github.com/<username>/decentre3/discussions)**
-
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=JesseJrLim" />
+</p>
 ---
 
 <p align="center">
-  <em>“Local-first AI for creators – stay creative, stay private.”</em>
+  <em>“Local-first Create Images, Datasets and models you can use ifinitely.”</em>
 </p>
