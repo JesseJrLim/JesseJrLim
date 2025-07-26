@@ -23,6 +23,11 @@ A modular desktop application that puts **all AI tooling on your machine** – n
 | **Ai Training tools** | 🔄 | 
 | **Marlin Browser** | 🔄 | Web browser with dedicated integration with Decentre Studio |
 
+Current project stats
+solodev
+73000 lines of code
+283 commits (2 months)
+max LOC per file <1000
 
 > The code-base is currently private while we stabilise v1.4. Public binaries and detailed changelogs are released here.
 
