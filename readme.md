@@ -24,7 +24,7 @@ A modular desktop application that puts **all AI tooling on your machine** - no 
 
 | Module | Status | Highlights |
 |--------|--------|------------|
-| **GenIMG** (Stable Diffusion) | ✅ | Native diffusers, SDXL/FLUX ready, plus APIs for Google Veo, Nano Banana, Seedream, SeeDance, and GROK |
+| **GenIMG** (Stable Diffusion) | ✅ | Native diffusers, SDXL/FLUX ready, plus APIs for Google Veo, Nano Banana, Seedream, SeeDance, and GROK - Adding more all the time!|
 | **DSPaint** | 🧪 | Layered painting, autosave, `.dcp` format |
 | **DSMotion** | 🧪 | Nonlinear video editor, autosave, `.dcm` format |
 | **DSVector** | 🧪 | Vector asset creation, autosave, `.dcv` format |
