@@ -1,7 +1,7 @@
 <!-- profile README - shown on https://github.com/<username> -->
 
 <h1 align="center">
-  👋 Hi, I'm Jesse Jr Lim
+  Lowkey dont know what to write here.. Hi I guess
   <br/>
   <sub>Building <b>Decentre Studio</b> - Full suite of Generative AI and traditional tools</sub>
 </h1>
