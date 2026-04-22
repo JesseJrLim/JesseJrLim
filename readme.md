@@ -56,8 +56,3 @@ Project site -> **[Decentre](https://www.decentre.io)**
 
 ---
 
-<p align="center">
-  <img src="https://github.com/JesseJrLim/JesseJrLim/blob/main/card_image.png" />
-  <br/>
-  <em>"Local-first creation for images, datasets, and models you can use indefinitely."</em>
-</p>
