@@ -3,7 +3,7 @@
 <h1 align="center">
   Lowkey dont know what to write here.. Hi I guess
   <br/>
-  <sub>Building <b>Decentre Studio</b> - Full suite of Generative AI and traditional tools</sub>
+  <sub>Building <b>Decentre Studio & Pea </b> - Full suite of Generative AI and traditional tools, Pea is a Governed Agent Runtime </sub>
 </h1>
 
 <p align="center">
